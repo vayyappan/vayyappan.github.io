@@ -1,5 +1,5 @@
 ---
-title: "EN.553.291"
+title: "EN.553.291 - Linear Algebra and Differential Equations"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/LADE
