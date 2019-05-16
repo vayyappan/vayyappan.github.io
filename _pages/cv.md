@@ -60,8 +60,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
- Conference Abstracts
- ======
+Conference Abstracts
+======
 * Tressler, C., Silvescu, C., Cornett, S., Sonkar, K., Cai, R., Ayyappan, V., Adelaja, O., Glunde, K. (2019). “MALDI mass spectrometry imaging reveals distinct spatio-molecular distributions in mouse lungs.” ASMS Annual Meeting, 2019.
 * Ayyappan, V., Tressler, C., Cheng, M., Sonkar, K., Cai, R., McMahon, M.T., Glunde, K. (2019). “Ubiquitous Mitochondrial Creatine Kinase CKMT1 Drives Malignant Creatine Metabolite Profiles in Human Breast Cancer Cell Lines.” Proceedings – Annual Meeting of ISMRM, 2019. 
 * Tressler, C., Ayyappan, V., Sonkar, K., Glunde, K. (2019). “Investigating the Role of Glutamine Transporters in Breast Cancer.” Proceedings—Annual Meeting of ISMRM, 2019. 
