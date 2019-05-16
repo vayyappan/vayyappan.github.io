@@ -1,7 +1,7 @@
 ---
 title: "EN.580.244 - Nonlinear Dynamics of Biological Systems"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate course"
 permalink: /teaching/nldbs
 venue: "Johns Hopkins University, Department of Biomedical Engineering"
 date: "March 2019 - May 2019"
