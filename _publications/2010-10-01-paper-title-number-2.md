@@ -9,6 +9,7 @@ venue: 'NMR in Biomedicine'
 paperurl: 
 citation: 'Sonkar, K.S., et al. (2019). &quot;Focus on the Glycerophosphocholine pathway in choline phospholipid metabolism of cancer.&quot; <i>NMR Biomed</i>. e4112.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this review, we summarize the recent literature on glycerophosphocholine metabolism and biology in
+cancer and its detection using MRS techniques.
 
 Recommended citation: Sonkar, K.S., et al. (2019). &quot;Focus on the Glycerophosphocholine pathway in choline phospholipid metabolism of cancer.&quot; <i>NMR Biomed</i>. e4112.
