@@ -19,7 +19,6 @@ Research
   * PROJECT 1: Leading an independent study that interrogates the role of mitochondrial enzyme CKMT1 on cancer cells’ creatine metabolite profile and functional characteristics (e.g. survival, metastatic potential). 
   * PROJECT 2: Screening metabolic enzymes involved in cancer cells’ glutamate metabolite profile.
   * PROJECT 3: Conducted qRT-PCR, western blots, ran NMR scans for a study of the role of choline metabolite genes GDPD5 and GDPD6 in breast cancer
-
 * Research Intern, Haussler Lab, University of California, Santa Cruz	 (June 2015 – January 2016)
  * PROJECT 1: Compiled and curated a database of twelve pediatric cancer studies comprising eleven cancers, 696 patients, 39,623 positional mutations (SNVs and indels), and 46,868 copy number alterations. This database is available online via the UC Santa Cruz Xena Cancer Browser. 
  * PROJECT 2: Gathered RNA sequence data regarding CD8+ cells and natural killer cells and, using R, conducted statistical tests to determine proof-of-concept for a tool that predicts methods of immunosuppression in tumors. 
