@@ -20,8 +20,8 @@ Research
   * PROJECT 2: Screening metabolic enzymes involved in cancer cells’ glutamate metabolite profile.
   * PROJECT 3: Conducted qRT-PCR, western blots, ran NMR scans for a study of the role of choline metabolite genes GDPD5 and GDPD6 in breast cancer
 * Research Intern, Haussler Lab, University of California, Santa Cruz	 (June 2015 – January 2016)
- * PROJECT 1: Compiled and curated a database of twelve pediatric cancer studies comprising eleven cancers, 696 patients, 39,623 positional mutations (SNVs and indels), and 46,868 copy number alterations. This database is available online via the UC Santa Cruz Xena Cancer Browser. 
- * PROJECT 2: Gathered RNA sequence data regarding CD8+ cells and natural killer cells and, using R, conducted statistical tests to determine proof-of-concept for a tool that predicts methods of immunosuppression in tumors. 
+  * PROJECT 1: Compiled and curated a database of twelve pediatric cancer studies comprising eleven cancers, 696 patients, 39,623 positional mutations (SNVs and indels), and 46,868 copy number alterations. This database is available online via the UC Santa Cruz Xena Cancer Browser. 
+  * PROJECT 2: Gathered RNA sequence data regarding CD8+ cells and natural killer cells and, using R, conducted statistical tests to determine proof-of-concept for a tool that predicts methods of immunosuppression in tumors. 
 
 Engineering and Design
 ======
@@ -77,10 +77,10 @@ Patents and Intellectual Property
 
 Honors and Awards
 ======
-Magna Cum Laude Award, International Society for Magnetic Resonance in Medicine, 2019. 
-Goldwater Scholar, Barry Goldwater Scholarship and Excellence in Education Foundation, 2019
-Astronaut Scholar, Astronaut Scholarship Foundation, 2018
-Provost’s Undergraduate Research Award, Johns Hopkins University, Summer 2018
-Linda Trinh Memorial Award, Johns Hopkins Department of Biomedical Engineering, 2017
+* Magna Cum Laude Award, International Society for Magnetic Resonance in Medicine, 2019. 
+* Goldwater Scholar, Barry Goldwater Scholarship and Excellence in Education Foundation, 2019
+* Astronaut Scholar, Astronaut Scholarship Foundation, 2018
+* Provost’s Undergraduate Research Award, Johns Hopkins University, Summer 2018
+* Linda Trinh Memorial Award, Johns Hopkins Department of Biomedical Engineering, 2017
 
 
