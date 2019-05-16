@@ -1,7 +1,7 @@
 ---
 title: "Poly(ADP-ribose)-dependent ubiquitination and its clinical implications"
 collection: publications
-permalink: 
+permalink: /publication/viveloPaper
 excerpt: 'In this review, we summarize the current literature on poly(ADP-ribose)-dependent ubiquitination (PARdU) regarding its biological mechanisms, substrates, and relevance to diseases.'
 date: 
 venue: 'Biochemical Pharmacology'
