@@ -1,0 +1,14 @@
+---
+title: “An Integrated Chemical Proteomics Approach for Quantitative Profiling of Intracellular ADP-Ribosylation”
+collection: publications
+permalink: 
+excerpt: 'ADP-ribosylation is integral to a diverse range of cellular processes such as DNA repair, chromatin regulation and RNA processing. However, proteome-wide investigation of its cellular functions has been limited due to numerous technical challenges including the complexity of the poly(ADP-ribose) (PAR) chains, low abundance of the modification and lack of sensitive enrichment methods. We herein show that an adenosine analogue with a terminal alkyne functionality at position 2 of the adenine (2-alkyne adenosine or 2YnAd) is suitable for selective enrichment, fluorescence detection and mass spectrometry proteomics analysis of the candidate ADP-ribosylome in mammalian cells. To facilitate global enrichment of ADP-ribosylated proteins, we developed a dual metabolic labelling approach that involves simultaneous treatment of live cells with both 2YnAd and 6YnAd. By combining this dual metabolic labelling strategy with highly sensitive tandem mass tag (TMT) isobaric mass spectrometry and hierarchical Bayesian analysis, we have quantified the responses of thousands of endogenous proteins to clinical PARP inhibitors Olaparib and Rucaparib.'
+date: 
+venue: 'NMR in Biomedicine'
+paperurl: 
+citation: 'Kalesh, K., et al. (2019). &quot;An Integrated Chemical Proteomics Approach for Quantitative Profiling of Intracellular ADP-Ribosylation.&quot; <i>Sci Rep</i>. 9(6655).'
+---
+'ADP-ribosylation is integral to a diverse range of cellular processes such as DNA repair, chromatin regulation and RNA processing. However, proteome-wide investigation of its cellular functions has been limited due to numerous technical challenges including the complexity of the poly(ADP-ribose) (PAR) chains, low abundance of the modification and lack of sensitive enrichment methods. We herein show that an adenosine analogue with a terminal alkyne functionality at position 2 of the adenine (2-alkyne adenosine or 2YnAd) is suitable for selective enrichment, fluorescence detection and mass spectrometry proteomics analysis of the candidate ADP-ribosylome in mammalian cells. To facilitate global enrichment of ADP-ribosylated proteins, we developed a dual metabolic labelling approach that involves simultaneous treatment of live cells with both 2YnAd and 6YnAd. By combining this dual metabolic labelling strategy with highly sensitive tandem mass tag (TMT) isobaric mass spectrometry and hierarchical Bayesian analysis, we have quantified the responses of thousands of endogenous proteins to clinical PARP inhibitors Olaparib and Rucaparib.'
+
+
+Recommended citation: Kalesh, K., et al. (2019). &quot;An Integrated Chemical Proteomics Approach for Quantitative Profiling of Intracellular ADP-Ribosylation.&quot; <i>Sci Rep</i>. 9(6655).
