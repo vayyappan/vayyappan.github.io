@@ -62,15 +62,15 @@ Talks
  
  Conference Abstracts
  ======
- * Ayyappan, V., Cheng, M., Cai, R., Tressler, C., Sonkar, K., McMahon, M.T., Glunde, K. (2018). “Proton MRS-Detected Creatine Metabolic Profiles in Human Breast Cancer Cells Correlate with the Prognostic Indicator Ubiquitous Mitochondrial Creatine Kinase (CKMT1).” Proceedings – Joint Annual Meeting of ISMRM–EMRB, 2018. 
- * Cheng, M., Ayyappan, V., Cai, R., Tressler, C., Glunde, K.  (2018)“Glycerophosphocholine Increase is a Reliable Surrogate Marker of Chemotherapy Response for Various Cancer Drug Treatments in Triple-Negative Breast Cancer Cells.” Proceedings – Joint Annual Meeting of ISMRM–EMRB, 2018
 * Tressler, C., Silvescu, C., Cornett, S., Sonkar, K., Cai, R., Ayyappan, V., Adelaja, O., Glunde, K. (2019). “MALDI mass spectrometry imaging reveals distinct spatio-molecular distributions in mouse lungs.” ASMS Annual Meeting, 2019.
 * Ayyappan, V., Tressler, C., Cheng, M., Sonkar, K., Cai, R., McMahon, M.T., Glunde, K. (2019). “Ubiquitous Mitochondrial Creatine Kinase CKMT1 Drives Malignant Creatine Metabolite Profiles in Human Breast Cancer Cell Lines.” Proceedings – Annual Meeting of ISMRM, 2019. 
 * Tressler, C., Ayyappan, V., Sonkar, K., Glunde, K. (2019). “Investigating the Role of Glutamine Transporters in Breast Cancer.” Proceedings—Annual Meeting of ISMRM, 2019. 
 * Schlesinger, D., Najmi, R., Ayyappan, V., Navarro, D., Zhao, W., Wiegand, H., Hemmati, S., Kleine, A., Heier, C., Luciano, M., Manbachi, A. (2018). “Computational Modeling of Valve Behavior in Hydrocephalus Shunts.” BMES Annual Meeting, 2018. 
 * Navarro, D., Schlesinger, D., Najmi, R., Ayyappan, V., Zhao, W., Wiegand, H., Hemmati, S., Kleine, A., Heier, C., Luciano, M., Manbachi, A. (2018). “Experimental Characterization of Valve Behavior in Hydrocephalus Shunts.” BMES Annual Meeting, 2018. 
 * Tressler, C., Ayyappan, V., Glunde, K. (2018) “Exploring Glutamate and Glutamine Metabolism Across Breast Cancer Subtypes Using High Resolution Proton MRS Combined with Molecular Approaches.” Proceedings – Joint Annual Meeting of ISMRM–EMRB, 2018. 
-
+ * Ayyappan, V., Cheng, M., Cai, R., Tressler, C., Sonkar, K., McMahon, M.T., Glunde, K. (2018). “Proton MRS-Detected Creatine Metabolic Profiles in Human Breast Cancer Cells Correlate with the Prognostic Indicator Ubiquitous Mitochondrial Creatine Kinase (CKMT1).” Proceedings – Joint Annual Meeting of ISMRM–EMRB, 2018. 
+ * Cheng, M., Ayyappan, V., Cai, R., Tressler, C., Glunde, K.  (2018)“Glycerophosphocholine Increase is a Reliable Surrogate Marker of Chemotherapy Response for Various Cancer Drug Treatments in Triple-Negative Breast Cancer Cells.” Proceedings – Joint Annual Meeting of ISMRM–EMRB, 2018
+ 
 Patents and Intellectual Property
 ======
 * US#62647325, “Attachment Device for Use with Existing Core Needle Biopsy Device to Remove Internal Contamination Risk.” (Provisional)
