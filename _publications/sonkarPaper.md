@@ -1,7 +1,7 @@
 ---
 title: “Focus on the Glycerophosphocholine pathway in choline phospholipid metabolism of cancer”
 collection: publications
-permalink: 
+permalink: /publication/sonkarPaper
 excerpt: 'In this review, we summarize the recent literature on glycerophosphocholine metabolism and biology in
 cancer and its detection using MRS techniques.'
 date: 
